@@ -4,7 +4,6 @@
 - 🎓 (Now working in Thesis) Finishing Bachelor Degree in Computer Science  <br />
 - :relieved: I'm a Developer <br />
 - 📱 I love Mobile development in ReactNative <br/>
-- I speak Spanish and a little bit of English<br />
 - ...
 
 ### Language used so far:
