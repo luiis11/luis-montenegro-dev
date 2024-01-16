@@ -71,9 +71,9 @@
 </p>
 
 
-## Stats
+<h3>Stats</h3>
 
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luimont&layout=donut)
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luimont&theme=algolia&background=0d1117&hide_border=true" />
