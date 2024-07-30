@@ -70,6 +70,14 @@
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&style=flat" />
 </p>
 
+<h3>Certifications</h3>
+
+<!--![image](https://github.com/user-attachments/assets/deefb20f-f97b-468d-8bf5-bd4d4fb88b19)-->
+<div>
+  <img alt="GitHub Badge" src="https://github.com/user-attachments/assets/deefb20f-f97b-468d-8bf5-bd4d4fb88b19" width=200/>
+  <img alt="Docker Certificate Badge" src="https://github.com/user-attachments/assets/a43a5748-40d9-4f95-a97b-f7cb64c8ada1" width=200/>
+  <img alt="GitHub Badge" src="https://lajarra.net/article/scrum/badge-SFC.png" width=200/>
+</div>
 
 <h3>Stats</h3>
 
