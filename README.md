@@ -72,10 +72,10 @@
 
 <h3>Certifications</h3>
   <img alt="GitHub Badge" src="https://github.com/user-attachments/assets/deefb20f-f97b-468d-8bf5-bd4d4fb88b19" width=200/>
-  <!--<img alt="Docker Certificate Badge Border" src="https://github.com/user-attachments/assets/a43a5748-40d9-4f95-a97b-f7cb64c8ada1" width=200/>-->
-  <img alt="Docker Certificate Badge" src="https://github.com/user-attachments/assets/f733048c-3dc3-4351-b82f-8ae1603e1950" width=200/>
+  <img alt="Docker Certificate Badge" src="https://github.com/user-attachments/assets/51bd8d43-a7ad-4aec-b26d-605adde96b5d" width=200/>
   <img alt="Scrum Badge" src="https://github.com/user-attachments/assets/b56300e9-62a2-4acf-9504-6aeed7d0548f" width=200/>
-</div>
+
+
 
 <h3>Stats</h3>
 
