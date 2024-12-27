@@ -2,9 +2,9 @@
 <h4>I'm Luis Montenegro <br /></h4>
 - 🎓 Graduated in Systems Analyst and Programmer <br />
 - 🎓 Bachelor's Degree in Computer Science <br />
-- 👨‍💻 I'm a Software Engineering <br />
+- 👨‍💻 I'm a Software Engineer <br />
+- ☁️ I'm a AWS Cloud Specialist <br/>
 - 📱 I love Mobile and Web development <br/>
-- ☁️  I work with Cloud Technology<br/>
 - 🧠 I'm passionate about Artificial Intelligence (AI) <br/>
 
 <h3>Knowledges</h3>
